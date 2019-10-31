@@ -2,9 +2,9 @@ class Stskeygen < Formula
   desc ''
   homepage 'https://dl.equinox.io/cimpress-cloud-engineering/stskeygen'
 
-  url 'https://bin.equinox.io/a/bnKD5oZTiWA/stskeygen-2.0.1-darwin-amd64.tar.gz'
-  sha256 '0ad9f31247dc74f68accbe386c2235d18144394852e892424a3724859eefa020'
-  version '2.0.1'
+  url 'https://bin.equinox.io/a/isLv9zaxEtK/stskeygen-2.0.3-darwin-amd64.tar.gz'
+  sha256 'd5877123c913595b16eed07a3d05ab31e499ee157044ffdcb72cab9b4f33826d'
+  version '2.0.3'
 
   def install
     bin.install 'stskeygen'
